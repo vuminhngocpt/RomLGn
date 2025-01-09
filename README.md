@@ -3,7 +3,7 @@
 
 #### Điện Thoại 
 
-[LG V30](test)
+[LG V30](https://github.com/vuminhngocpt/lgv30)
 
 
 
